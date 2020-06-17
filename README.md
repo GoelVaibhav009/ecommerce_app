@@ -1,6 +1,8 @@
-# ecommerceapp
+# E-Commerce App
 
-FLutter
+Work in Progress
+Started On- 18/06/2020
+Completion Date - 15/08/2020 (Probably)
 
 ## Getting Started
 
